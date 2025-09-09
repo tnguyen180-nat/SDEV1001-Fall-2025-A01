@@ -6,6 +6,5 @@ else:
     hundreds = number // 100
     tens = (number % 100) // 10
     ones = number % 10
-    total = ones + tens + hundreds
 
-    print(f"Sum of digits: {total}")
+    print(f"Sum of digits: {ones + tens + hundreds}")
