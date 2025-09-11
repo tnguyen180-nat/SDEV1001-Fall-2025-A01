@@ -1,0 +1,16 @@
+We're going to start learning about decision making in programming. We write software to solve problems, and problem solving involves making decisions based on certain conditions. In programming, we use if statements combined with logic to execute some code if certain criteria are met.
+
+In python, these are done using the if, elif, and else statements.
+
+If statements are a fundamental part of programming and exist in all programming languages. They have many uses:
+    - control the flow of the program
+    - make decisions
+    - used in every program you have ever used.
+
+(Go through accompanying python file)
+
+Go through the concert example (to analyze strings):
+https://github.com/SDEV-NAIT/SDEV1001/blob/main/making-decisions/fundamental_if_statements_start/README.md
+
+(Go through High-Low example), demonstrate a constant with PROGRAM_NAME = "High or Low"
+
