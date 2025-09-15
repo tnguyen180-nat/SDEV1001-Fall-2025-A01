@@ -44,3 +44,23 @@ if roll >= CHARIZARD_CATCH_CHANCE:
     print("Congratulations! You caught Charizard.")
 else:
     print("Charizard escaped!")
+
+# Error 1:
+#   Type: Variable Handled before Assignment
+#   Line: 14
+#   Why did it happen: Mistyped "=" character means GREAT_BALL_BONUS is compared to number, instead of assigned that number
+
+# Error 2:
+#   Type: Wrong Function
+#   Line: 20
+#   Why did it happen: print() and input() uses the same arguements, interpeter couldn't catch it
+
+# Error 3:
+#   Type: Indentation Error
+#   Line: 31
+#   Why did it happen: Coder used spaces, instead of tabs
+
+# Error 4:
+#   Type: Additional Condition Needed
+#   Line: 39
+#   Why did it happen: Assumption that input would be limited to "1", "2", "3", and "4"
