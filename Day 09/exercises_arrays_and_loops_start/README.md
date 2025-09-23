@@ -13,6 +13,7 @@ Hobbies on the list:
 - playing video games
 - playing board games
 - watching movies
+  
 Print out the following in the program.
 - length of the list
 - the 5th item in the list (remember that the index starts at 0)
