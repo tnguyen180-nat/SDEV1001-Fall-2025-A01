@@ -1,0 +1,52 @@
+lesson_title: Introduction to Exceptions
+lesson_number: 3
+lesson_objective: Demonstrate how to handle exceptions in Python.
+
+related_course_outcome: 1, 2, 3 and 5
+
+
+resources_required:
+  - slides and notes
+  - article on debugging with breakpoints
+  - degugging intro example
+  - exercises
+
+breakdown:
+  connecting:
+    content: Brief overview of the lesson objectives and introduction to the topic.
+    activity: >
+      Discuss that this might be one of the most important tools in programming.
+      Discuss how you can stop a program and see everything happening with a breakpoint.
+    time: 10 minutes
+  exploring:
+    - part:
+        content: Go over Slides and notes
+        activity: >
+          Get students familiar with how debugging with breakpoints work.
+          Discuss all of the possibilities that you can do and familiarize with syntax.
+          Show how it's essentially kind of like a mini REPL.
+        time: 10-20 minutes
+    - part:
+        content: Step-by-step coding example on exceptions intro example
+        activity: >
+          Step-by-step coding exercise.
+          Students will use breakpoint to fix errors in a programs with the instructors
+          Demonstrate how to use the different tools in debugging.
+        time: 30-40 minutes
+  practicing:
+    - part:
+        content: Get students to work on exercises and use breakpoint in them.
+        activity: >
+          Coding exercises they run locally and push up to Github.
+          Github will give a bit of feedback whether they're moving in the right direction.
+          Go around and help answer questions for students.
+        time: 30-50 minutes
+  assessing:
+    - part:
+        content: Analyze and discuss exercises with students
+        activity: Discuss analyze and discuss examples.
+        time: 5-10 minutes
+
+additional_instructor_notes:
+  - Inform them about meetups that are present around town.
+  - Get them to read the the article on debugging with breakpoints on Real Python.
