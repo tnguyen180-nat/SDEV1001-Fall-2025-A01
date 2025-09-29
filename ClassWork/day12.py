@@ -64,6 +64,8 @@
 #         user_playing = false
 
 # --------------------------------
+# Do-while loops do not exist in Python
+# Do this instead
 while True:
     print("Pew pew!")
     keep_playing = input("Keep playing (y/n)? ")
